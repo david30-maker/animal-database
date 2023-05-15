@@ -1,4 +1,4 @@
-/* Populate database with sample data. */
+
 INSERT INTO animals (
 	name,
 	date_of_birth,
