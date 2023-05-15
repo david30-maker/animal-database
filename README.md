@@ -133,7 +133,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone git@github.com:david30-maker/animal-database.git
 ```
 --->
 
@@ -146,7 +146,7 @@ Example command:
 
 ```sh
   cd my-project
-  gem install
+  gem install postgresql
 ```
 --->
 
@@ -194,17 +194,11 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Okpah Igbo**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@david30-maker](https://github.com/david30-maker)
+- Twitter: [@davidigbo1](https://twitter.com/davidigbo1)
+- LinkedIn: [davidigbo](https://linkedin.com/in/davidigbo)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -214,9 +208,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Multipe_tables]**
+- [ ] **[Add_visit_table]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -236,7 +230,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project give me star 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -246,7 +240,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank Microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -255,14 +249,6 @@ I would like to thank...
 ## ❓ FAQ <a name="faq"></a>
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
