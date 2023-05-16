@@ -78,3 +78,29 @@ WHERE weight_kg < 0;
 
 -- Commit the transaction
 COMMIT;
+
+SELECT COUNT(*) AS total_animals
+FROM animals;
+
+SELECT COUNT(*) AS never_escaped_count
+FROM animals
+WHERE escape_attempts = 0;
+
+SELECT AVG(weight_kg) AS average_weight
+FROM animals;
+
+SELECT neutered, COUNT(*) AS escape_count
+FROM animals
+WHERE escape_attempts > 0
+GROUP BY neutered
+ORDER BY escape_count DESC
+LIMIT 1;
+
+SELECT name, MIN(weight_kg) AS min_weight, MAX(weight_kg) AS max_weight
+FROM animals
+GROUP BY name;
+
+SELECT name, AVG(escape_attempts) AS average_escape_attempts
+FROM animals
+WHERE date_of_birth BETWEEN '1990-01-01' AND '2000-12-31'
+GROUP BY name;
