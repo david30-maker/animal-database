@@ -32,7 +32,7 @@ WHERE name LIKE '%mon';
 -- Update animals without a species already set to have species as "pokemon"
 UPDATE animals
 SET species = 'pokemon'
-WHERE species = '';
+WHERE species IS NULL;
 
 -- Verify the changes
 SELECT * FROM animals;
@@ -96,9 +96,9 @@ GROUP BY neutered
 ORDER BY escape_count DESC
 LIMIT 1;
 
-SELECT name, MIN(weight_kg) AS min_weight, MAX(weight_kg) AS max_weight
+SELECT species, MIN(weight_kg) AS min_weight, MAX(weight_kg) AS max_weight
 FROM animals
-GROUP BY name;
+GROUP BY species;
 
 SELECT name, AVG(escape_attempts) AS average_escape_attempts
 FROM animals
