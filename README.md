@@ -127,7 +127,3 @@ If you like this project don't doubt on make any comments or try to reach me out
 This project is [MIT](/LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<img width="956" alt="image" src="https://github.com/david30-maker/animal-database/assets/95672514/c8e60bd5-75cb-4b36-8f08-0edb76343f69">
