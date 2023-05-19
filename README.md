@@ -63,11 +63,7 @@ Clone this repository to your desired folder:
 
 To run the project execute the command below
 
-`npm start`
-
-### Run tests
-
-To run tests, run the following command:
+`execute query`
 
 <!-- AUTHORS -->
 
