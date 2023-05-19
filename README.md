@@ -64,7 +64,6 @@ To run the project execute the command below
 `execute query`
 
 
-
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Okpah Igbo**
