@@ -59,13 +59,10 @@ Clone this repository to your desired folder:
 `cd my-folder`
 `git clone git@github.com:david30-maker/animal-database.git`
 
-### Usage
-
 To run the project execute the command below
 
 `execute query`
 
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
