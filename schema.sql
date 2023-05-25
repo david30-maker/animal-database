@@ -49,9 +49,10 @@ CREATE TABLE specializations (
 );
 
 -- Create the visits table
-CREATE TABLE visits (
-  animal VARCHAR(255),
-  vet_id INTEGER,
-  visit_date DATE,
-  FOREIGN KEY (vet_id) REFERENCES vets(id)
+create table visits(
+	id serial primary key,
+	animal_id int references animals(id),
+	vet_id int references vets (id),
+    visit_date date
 );
+
