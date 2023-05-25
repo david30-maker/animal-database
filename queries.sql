@@ -209,3 +209,10 @@ GROUP BY s.species
 ORDER BY visit_count DESC
 LIMIT 1;
 
+EXPLAIN ANALYZE SELECT COUNT(*) FROM visits where animal_id = 4;
+EXPLAIN ANALYZE SELECT * FROM visits where vet_id = 2;
+EXPLAIN ANALYZE SELECT * FROM owners where email = 'owner_18327@mail.com';
+
+CREATE INDEX animal_id_index ON visits (animal_id);
+CREATE INDEX vet_id_index ON visits (vet_id);
+CREATE INDEX email_index ON owners (email);
