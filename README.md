@@ -107,7 +107,6 @@ If you like this project don't doubt on make any comments or try to reach me out
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
