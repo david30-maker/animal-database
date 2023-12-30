@@ -27,8 +27,6 @@
 
 The vet_clinic database is application that allows the users to access database of every animal in veternary clinic
 
-
-
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
