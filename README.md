@@ -37,8 +37,6 @@ The vet_clinic database is application that allows the users to access database 
 
 ## 🛠 Built With <a name="built-with"></a>
 
-  - SQL POSTGRESQL
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Key Features
