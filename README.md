@@ -66,8 +66,6 @@ To run the project execute the command below
 - Twitter: [@davidigbo1](https://twitter.com/davidigbo1)
 - LinkedIn: [davidigbo/](https://www.linkedin.com/in/davidigbo/)
 
-<!-- FUTURE FEATURES -->
-
 ## 🔭 Future Features <a name="future-features"></a>
 **[Add_multiple_table]**
 **[Add_join_ visit_table]**
